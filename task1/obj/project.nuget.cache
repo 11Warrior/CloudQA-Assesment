@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "povSxqcoipE=",
+  "success": true,
+  "projectFilePath": "/home/atwarrior_11/CloudQA-Assesment/task1/form.csproj",
+  "expectedPackageFiles": [
+    "/home/atwarrior_11/.nuget/packages/selenium.webdriver/4.25.0/selenium.webdriver.4.25.0.nupkg.sha512"
+  ],
+  "logs": []
+}
